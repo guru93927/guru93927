@@ -77,13 +77,6 @@ Subscription-based platform connecting creators and brands, with scalable locati
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guru93927&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guru93927&layout=compact&hide_border=true" />
-</p>
-
----
 
 <p align="center">📫 Let's connect. I'm happy to talk about AI, data and startup ideas.</p>
